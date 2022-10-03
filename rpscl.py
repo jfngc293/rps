@@ -1,5 +1,5 @@
 import random
-a=int(input("Enter The Score to be played"))
+a=int(input("Enter the goddamn score"))
 u=0
 c=0
 for i in range (0,a) :
